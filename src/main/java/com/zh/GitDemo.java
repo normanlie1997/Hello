@@ -7,5 +7,6 @@ package com.zh;
 public class GitDemo {
     public void sayHello() {
         System.out.println("hello");
+        System.out.println("hello2");
     }
 }
