@@ -14,5 +14,6 @@ public class GitDemo {
         System.out.println("hello6 master");
         System.out.println("hello7 hot-fix");
         System.out.println("hello8");
+        System.out.println("hello9");
     }
 }
